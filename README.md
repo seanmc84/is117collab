@@ -12,5 +12,7 @@ mv- similar to the cp command, you use this command if you wish to move a direct
 
 rm- This command is basically a delete command. It is used to remove files and directories from the system. You would use this if you wanted to clear up some space and get rid of a directory that hasn't been used. You can also use it if you accidentally made a directory that you don't need. An example would be "rm Homework" which would remove the Homework directory after the files have been moved to a new directory. All the files inside this directory will also be removed.
 
+history- history command will show you all of your recent commands that have been entered into the command line. If you do not set a limit it will give you a list of 500 of the most recent used commands since you started the session. You would use this to see what commands you entered that may have caused an issue in your files. You can use it simply by just putting "history" in the command line or limit the list by doing "history 5" to show the last 5 commands entered.
+
 
 
