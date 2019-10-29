@@ -16,3 +16,5 @@ history- history command will show you all of your recent commands that have bee
 
 Home directory / ~ - If you use the ~ in combination with cd to go back to your home directory. You would use this if you are deep into a line of directories but wanted to create a new directory in your home directory. You can also use it simply to just return back to your home directory to make it easier to locate a file towards the beginning of a line of directories. You use it in combination with cd so it would be "cd ~" and it will return you right back to the home directory. The home directory would be the same directory that you logged into the system with.
 
+File paths in Linux- File paths are usually lengthy depending on how many different directories you have on your system and where the file is saved in the system. Usually they will show just a few of the directories that come before the directory where the file is saved in a simple file path. Using the history command will show the full file path similar to something like "C:/Homework/IS117/MiniProject/Part1/Part1.txt" This would be the full file path that you would get for the file Part1.txt file.
+
