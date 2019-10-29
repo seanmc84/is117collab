@@ -18,3 +18,6 @@ Home directory / ~ - If you use the ~ in combination with cd to go back to your 
 
 File paths in Linux- File paths are usually lengthy depending on how many different directories you have on your system and where the file is saved in the system. Usually they will show just a few of the directories that come before the directory where the file is saved in a simple file path. Using the history command will show the full file path similar to something like "C:/Homework/IS117/MiniProject/Part1/Part1.txt" This would be the full file path that you would get for the file Part1.txt file.
 
+Using the Tab key to complete file paths- Using the Tab key will automatically fill in the next portion of the file path with an existing path after it. This will help you if you dont remember exactly what directories are in the current directory that you are in. You can use it by starting in the C:/ Directory and typing "cd Hom" and you can click the tab key to finish the word, or you can just tab after typing "cd " and it will fill in the space with the first directory in alphabetical order. It is a much more efficient way of completing commands and getting to your final destination.
+
+
