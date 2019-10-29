@@ -14,5 +14,5 @@ rm- This command is basically a delete command. It is used to remove files and d
 
 history- history command will show you all of your recent commands that have been entered into the command line. If you do not set a limit it will give you a list of 500 of the most recent used commands since you started the session. You would use this to see what commands you entered that may have caused an issue in your files. You can use it simply by just putting "history" in the command line or limit the list by doing "history 5" to show the last 5 commands entered.
 
-
+Home directory / ~ - If you use the ~ in combination with cd to go back to your home directory. You would use this if you are deep into a line of directories but wanted to create a new directory in your home directory. You can also use it simply to just return back to your home directory to make it easier to locate a file towards the beginning of a line of directories. You use it in combination with cd so it would be "cd ~" and it will return you right back to the home directory. The home directory would be the same directory that you logged into the system with.
 
