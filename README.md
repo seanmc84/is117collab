@@ -22,9 +22,9 @@ Using the Tab key to complete file paths- Using the Tab key will automatically f
 
 Using the up and down arrow for history- Instead of using the history command, you can just use the up and down arrow on your keyboard to scroll through your recent commands. This is helpful when you just want to go back a few commands to reword or reuse the command. You can use it by just making sure you have the command line active and just clicking the up arrow on your keyboard, it will begin to scroll back through all the commands you have used in the session in order that you last used them. This is very helpful for using commands more than once at a time.
 
-The gitflow workflow functions in a variety of ways. Specific commands are depicted in order to achieve a certain outcome. We can begin with a repository. A repository is a directory or storage space where projects can live. Items like code files, text files, and image files can be stored here. 
+The gitflow workflow functions in a variety of ways. Commands are depicted in order to achieve a certain outcome. We can begin with a repository. A repository is a directory or storage space where projects can live. Items like code files, text files, and image files can be stored here. 
 
-Another function could be cloning something. By cloning a repository, that meeans you are downloading a copy of the source code from the source control.
+cloning - making a copy of a repository, that meeans you are downloading a copy of the source code from the source control.
 
 Much like a clone, a fork does also copy a repository but in a better form. A fork repository is always being monitored or compared to the original repository unlike the cloned. Forking allows you to freely experiment with changes without affecting the original project. Forks are used to either propose changes to someone else's project or to use their project as a starting point for your own ideas.
 
