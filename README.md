@@ -32,13 +32,13 @@ Branch - this is how multiple people can work on a project at the same time with
 
 Commit - this is the command that gives Git its power. When you commit, you are taking a "snapshot" of your repository at that point in time. It leaves a checkpoint to which you can reevaluate or restore the project to any previous state.
 
-merging - when a branch is complete, you can merge changes back to the master branch which is visible to all collaborators (git merge). For example, "git merge cats" would take all the changes you made to the "cats" branch and add them to the master.
+Merging - when a branch is complete, you can merge changes back to the master branch which is visible to all collaborators (git merge). For example, "git merge cats" would take all the changes you made to the "cats" branch and add them to the master.
 
-checking out - allows you to "check out" a repository that you are not currently inside. It is a navigational command that lets you move to the repository you want to check; (git checkout).
+Checking out - allows you to "check out" a repository that you are not currently inside. It is a navigational command that lets you move to the repository you want to check; (git checkout).
 
-push command - is if you are working on a local computer and you want your commits to be visible online on github as well, you "push" changes up to github with this command (git push).
+Push command - is if you are working on a local computer and you want your commits to be visible online on github as well, you "push" changes up to github with this command (git push).
 
-pull command - is if you are working on a local computer and want the most up-to-date version of a repository to work with, you "pull" changes down from github with this command (git pull).
+Pull command - is if you are working on a local computer and want the most up-to-date version of a repository to work with, you "pull" changes down from github with this command (git pull).
 
 remote adding, removing, or showing - you are using these commands to help you manage connections to remote repositories. By adding, you are creating new connections to a remote repository. By removing, you are disconnecting the remote from the local repository. By showing, it just displays the URLs of the remote repositories. 
 
