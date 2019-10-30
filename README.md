@@ -24,4 +24,6 @@ Using the up and down arrow for history- Instead of using the history command, y
 
 Gitflow workflow functions in a variety of ways. Commands are depicted in order to achieve a certain outcome. We can begin with a repository. A repository is a directory or storage space where projects can be appropriately organized. Items like code files, text files, and image files can be stored here.
 
-Cloning - cloning repository means you’re downloading a copy of the source code from source control 
+Cloning - cloning repository means you’re downloading a copy of the source code from source control
+
+Fork – better than a clone but it is also a copy of a repository; fork repository is always being monitored/compared with the original repository unlike the cloned; forking a repository allows you to freely experiment with changes without affecting the original project; forks are used to either propose changes to someone else’s project or to use someone else’s project as a starting point for your own idea
