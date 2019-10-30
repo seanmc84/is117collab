@@ -27,3 +27,5 @@ Gitflow workflow functions in a variety of ways. Commands are depicted in order 
 Cloning - cloning repository means you’re downloading a copy of the source code from source control
 
 Fork – better than a clone but it is also a copy of a repository; fork repository is always being monitored/compared with the original repository unlike the cloned; forking a repository allows you to freely experiment with changes without affecting the original project; forks are used to either propose changes to someone else’s project or to use someone else’s project as a starting point for your own idea
+
+Branch – how multiple people can work on a project at the same time without Git glitching; “branch off” of the main project with their own versions full of changes each partner has made; afterwards, its time to “merge” that branch back with the “master,” the main directory of the project
