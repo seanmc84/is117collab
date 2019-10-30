@@ -40,8 +40,8 @@ Push command - is if you are working on a local computer and you want your commi
 
 Pull command - is if you are working on a local computer and want the most up-to-date version of a repository to work with, you "pull" changes down from github with this command (git pull).
 
-remote adding, removing, or showing - you are using these commands to help you manage connections to remote repositories. By adding, you are creating new connections to a remote repository. By removing, you are disconnecting the remote from the local repository. By showing, it just displays the URLs of the remote repositories. 
+Remote adding, removing, or showing - you are using these commands to help you manage connections to remote repositories. By adding, you are creating new connections to a remote repository. By removing, you are disconnecting the remote from the local repository. By showing, it just displays the URLs of the remote repositories. 
 
-status - of course you can also check the status of your repository. You are able to see which files are inside of it, which changes need to be committed, and which rbanch of the repository you are currently working on.
+Status - of course you can also check the status of your repository. You are able to see which files are inside of it, which changes need to be committed, and which rbanch of the repository you are currently working on.
 
-master branch - the entire composition, the lead repository. Everything is located or merged into this spot and you are able to access it by using the command "git checkout master."
+Master branch - the entire composition, the lead repository. Everything is located or merged into this spot and you are able to access it by using the command "git checkout master."
