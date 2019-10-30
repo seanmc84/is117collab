@@ -22,3 +22,26 @@ Using the Tab key to complete file paths- Using the Tab key will automatically f
 
 Using the up and down arrow for history- Instead of using the history command, you can just use the up and down arrow on your keyboard to scroll through your recent commands. This is helpful when you just want to go back a few commands to reword or reuse the command. You can use it by just making sure you have the command line active and just clicking the up arrow on your keyboard, it will begin to scroll back through all the commands you have used in the session in order that you last used them. This is very helpful for using commands more than once at a time.
 
+The gitflow workflow functions in a variety of ways. Specific commands are depicted in order to achieve a certain outcome. We can begin with a repository. A repository is a directory or storage space where projects can live. Items like code files, text files, and image files can be stored here. 
+
+Another function could be cloning something. By cloning a repository, that meeans you are downloading a copy of the source code from the source control.
+
+Much like a clone, a fork does also copy a repository but in a better form. A fork repository is always being monitored or compared to the original repository unlike the cloned. Forking allows you to freely experiment with changes without affecting the original project. Forks are used to either propose changes to someone else's project or to use their project as a starting point for your own ideas.
+
+A branch is how multiple people can work on a project at the same time without Git glitching. By "branching off" of the main project with their own versions full of changes each partner is able to make. Afterwards, it is time to "merge" that branch back with the "master," the main directory of the project. 
+
+A commit is the command that gives Git its power. When you commit, you are taking a "snapshot" of your repository at that point in time. It leaves a checkpoint to which you can reevaluate or restore the project to any previous state.
+
+Merging is when a branch is complete, you can merge changes back to the master branch which is visible to all collaborators (git merge). For example, "git merge cats" would take all the changes you made to the "cats" branch and add them to the master.
+
+Checking out allows you to "check out" a repository that you are not currently inside. It is a navigational command that lets you move to the repository you want to check; (git checkout).
+
+An example of a push command is if you are working on a local computer and you want your commits to be visible online on github as well, you "push" changes up to github with this command (git push).
+
+An example of a pull command is if you are working on a local computer and want the most up-to-date version of a repository to work with, you "pull" changes down from github with this command (git pull).
+
+By remote adding, removing, or showing, you are using these commands to help you manage connections to remote repositories. By adding, you are creating new connections to a remote repository. By removing, you are disconnecting the remote from the local repository. By showing, it just displays the URLs of the remote repositories. 
+
+You can also check the status of your repository. You are able to see which files are inside of it, which changes need to be committed, and which rbanch of the repository you are currently working on.
+
+All in all, a master branch is the entire composition, the lead repository. Everything is located or merged into this spot and you are able to access it by using the command "git checkout master."
