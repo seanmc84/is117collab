@@ -28,9 +28,9 @@ Another function could be cloning something. By cloning a repository, that meean
 
 Much like a clone, a fork does also copy a repository but in a better form. A fork repository is always being monitored or compared to the original repository unlike the cloned. Forking allows you to freely experiment with changes without affecting the original project. Forks are used to either propose changes to someone else's project or to use their project as a starting point for your own ideas.
 
-A branch is how multiple people can work on a project at the same time without Git glitching. By "branching off" of the main project with their own versions full of changes each partner is able to make. Afterwards, it is time to "merge" that branch back with the "master," the main directory of the project. 
+branch - this is how multiple people can work on a project at the same time without Git glitching. By "branching off" of the main project with their own versions full of changes each partner is able to make. Afterwards, it is time to "merge" that branch back with the "master," the main directory of the project. 
 
-A commit is the command that gives Git its power. When you commit, you are taking a "snapshot" of your repository at that point in time. It leaves a checkpoint to which you can reevaluate or restore the project to any previous state.
+commit - this is the command that gives Git its power. When you commit, you are taking a "snapshot" of your repository at that point in time. It leaves a checkpoint to which you can reevaluate or restore the project to any previous state.
 
 Merging is when a branch is complete, you can merge changes back to the master branch which is visible to all collaborators (git merge). For example, "git merge cats" would take all the changes you made to the "cats" branch and add them to the master.
 
