@@ -39,3 +39,5 @@ Checkout – git checkout: allows you to “check out” a repository that you a
 Push – if working on a local computer and you want your commits to be visible online on github as well, you “push” the changes up to github with this command (git push)
 
 Pull – if you’re working on local computer and want the most up-to-date version of repository to work with, you “pull” changes down from github with this command (git pull)
+
+Remote add/remove/show - remote add means adding to your repository; removing files from a repository; showing means displaying the repository 
