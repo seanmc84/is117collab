@@ -1,6 +1,6 @@
 # is117collab
 
-cd- This is a command that is used to change directories that you are in. you use it to go from a parent directory to a subdirectory. An example of this is if you were in the C:\ directory and wanted to go to the users directory, you would type "cd users" into the command line. This will change your active directory to the users directory and you can go further by typing the next directory contained inside the users directory..
+cd- This is a command that is used to change directories that you are in. you use it to go from a parent directory to a subdirectory. An example of this is if you were in the C:\ directory and wanted to go to the users directory, you would type "cd users" into the command line. This will change your active directory to the users directory and you can go further by typing the next directory contained inside the users directory.
 
 mkdir- This command creates a new directory. You would use it if you wanted to create a new directory from inside the command line. If you were inside the C:\ directory and wanted to create a new "School" directory, you can type "mkdir School" to create a directory inside the C:\ directory. You can also use "mkdir School" to create a directory inside the C:\ directory. You can also use the "mkdir -p School/Homework". This will create a School directory that will be a parent directory for Homework. Then it will create the Homework directory inside School. 
 
@@ -45,3 +45,7 @@ Remote add/remove/show - remote add means adding to your repository; removing fi
 Status – check status of your repository; see which files are inside it, which changes need to be committed, and which branch of the repository you are currently working on
 
 Master branch – in order to look at master branch, you use the command git checkout master
+
+A fork is a copy of a repository that allows you to freely experiment with changes without affecting the original project. A forked repository differs from a clone in that a connection exists between your fork and the original repository itself. In this way, your fork acts as a bridge between the original repository and your personal copy where you can contribute back to the original project using Pull Requests.
+
+When you create a new repository on GitHub, it exists as a remote location where your project is stored. You can clone your repository to create a local copy on your computer so that you can sync between both the local and remote locations of the project. Unlike forking, you won't be able to pull down changes from the original repository you cloned from, and if the project is owned by someone else you won't be able to contribute back to it unless you are specifically invited as a collaborator. 
