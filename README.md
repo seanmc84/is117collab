@@ -33,3 +33,5 @@ Branch – how multiple people can work on a project at the same time without Gi
 Commit – the command that gives Git its power; when you commit, you are taking a ‘’snapshot” of your repository at that point in time; leaves a checkpoint to which you can reevaluate or restore the project to any previous state
 
 Merge – when a branch is complete, merge changes back to the master branch which is visible to all collaborators (git merge); git merge cats would take all the changes you made to the “cats” branch and add them to the master
+
+Checkout – git checkout: allows you to “check out” a repository that you are not currently inside; navigational command that lets you move to the repository you want to check
