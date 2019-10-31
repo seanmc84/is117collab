@@ -35,3 +35,5 @@ Commit – the command that gives Git its power; when you commit, you are taking
 Merge – when a branch is complete, merge changes back to the master branch which is visible to all collaborators (git merge); git merge cats would take all the changes you made to the “cats” branch and add them to the master
 
 Checkout – git checkout: allows you to “check out” a repository that you are not currently inside; navigational command that lets you move to the repository you want to check
+
+Push – if working on a local computer and you want your commits to be visible online on github as well, you “push” the changes up to github with this command (git push)
