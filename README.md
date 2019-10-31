@@ -31,3 +31,5 @@ Fork – better than a clone but it is also a copy of a repository; fork reposit
 Branch – how multiple people can work on a project at the same time without Git glitching; “branch off” of the main project with their own versions full of changes each partner has made; afterwards, its time to “merge” that branch back with the “master,” the main directory of the project
 
 Commit – the command that gives Git its power; when you commit, you are taking a ‘’snapshot” of your repository at that point in time; leaves a checkpoint to which you can reevaluate or restore the project to any previous state
+
+Merge – when a branch is complete, merge changes back to the master branch which is visible to all collaborators (git merge); git merge cats would take all the changes you made to the “cats” branch and add them to the master
