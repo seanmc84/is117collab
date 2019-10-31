@@ -29,3 +29,5 @@ Cloning - cloning repository means you’re downloading a copy of the source cod
 Fork – better than a clone but it is also a copy of a repository; fork repository is always being monitored/compared with the original repository unlike the cloned; forking a repository allows you to freely experiment with changes without affecting the original project; forks are used to either propose changes to someone else’s project or to use someone else’s project as a starting point for your own idea
 
 Branch – how multiple people can work on a project at the same time without Git glitching; “branch off” of the main project with their own versions full of changes each partner has made; afterwards, its time to “merge” that branch back with the “master,” the main directory of the project
+
+Commit – the command that gives Git its power; when you commit, you are taking a ‘’snapshot” of your repository at that point in time; leaves a checkpoint to which you can reevaluate or restore the project to any previous state
