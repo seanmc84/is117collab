@@ -43,3 +43,5 @@ Pull – if you’re working on local computer and want the most up-to-date vers
 Remote add/remove/show - remote add means adding to your repository; removing files from a repository; showing means displaying the repository
 
 Status – check status of your repository; see which files are inside it, which changes need to be committed, and which branch of the repository you are currently working on
+
+Master branch – in order to look at master branch, you use the command git checkout master
