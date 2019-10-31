@@ -40,4 +40,6 @@ Push – if working on a local computer and you want your commits to be visible 
 
 Pull – if you’re working on local computer and want the most up-to-date version of repository to work with, you “pull” changes down from github with this command (git pull)
 
-Remote add/remove/show - remote add means adding to your repository; removing files from a repository; showing means displaying the repository 
+Remote add/remove/show - remote add means adding to your repository; removing files from a repository; showing means displaying the repository
+
+Status – check status of your repository; see which files are inside it, which changes need to be committed, and which branch of the repository you are currently working on
